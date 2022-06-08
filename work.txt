@@ -1,4 +1,4 @@
-1일
+one
 two
 three
 four
